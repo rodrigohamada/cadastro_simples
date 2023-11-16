@@ -1,0 +1,13 @@
+C:\Users\rhamada\Desktop\Estudo\Formulario_Cadastro\Formulario_Cadastro\bin\Debug\Formulario_Cadastro.exe.config
+C:\Users\rhamada\Desktop\Estudo\Formulario_Cadastro\Formulario_Cadastro\bin\Debug\Formulario_Cadastro.exe
+C:\Users\rhamada\Desktop\Estudo\Formulario_Cadastro\Formulario_Cadastro\bin\Debug\Formulario_Cadastro.pdb
+C:\Users\rhamada\Desktop\Estudo\Formulario_Cadastro\Formulario_Cadastro\obj\Debug\Formulario_Cadastro.csproj.AssemblyReference.cache
+C:\Users\rhamada\Desktop\Estudo\Formulario_Cadastro\Formulario_Cadastro\obj\Debug\Formulario_Cadastro.Form1.resources
+C:\Users\rhamada\Desktop\Estudo\Formulario_Cadastro\Formulario_Cadastro\obj\Debug\Formulario_Cadastro.Properties.Resources.resources
+C:\Users\rhamada\Desktop\Estudo\Formulario_Cadastro\Formulario_Cadastro\obj\Debug\Formulario_Cadastro.csproj.GenerateResource.cache
+C:\Users\rhamada\Desktop\Estudo\Formulario_Cadastro\Formulario_Cadastro\obj\Debug\Formulario_Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\rhamada\Desktop\Estudo\Formulario_Cadastro\Formulario_Cadastro\obj\Debug\Formulario_Cadastro.exe
+C:\Users\rhamada\Desktop\Estudo\Formulario_Cadastro\Formulario_Cadastro\obj\Debug\Formulario_Cadastro.pdb
+C:\Users\rhamada\Desktop\Estudo\Formulario_Cadastro\Formulario_Cadastro\obj\Debug\Formulario_Cadastro.CadastroForm.resources
+C:\Users\rhamada\Desktop\Estudo\Formulario_Cadastro\Formulario_Cadastro\obj\Debug\Formulario_Cadastro.PesquisaForm.resources
+C:\Users\rhamada\Desktop\Estudo\Formulario_Cadastro\Formulario_Cadastro\obj\Debug\Formulario_Cadastro.ExclusaoForm.resources
